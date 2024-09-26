@@ -100,14 +100,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>wallmart-dev Repository</name>
-	      <url>http://3.237.179.28:8081/repository/wallmart-dev/</url>
+	      <name>flipkart-release Repository</name>
+	      <url>http://3.215.142.99:8081/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>wallmart-dev-Snapshot Repository</name>
-	      <url>http://3.237.179.28:8081/repository/wallmart-dev-snapshot/</url>
+	      <name>flipkart-Snapshot Repository</name>
+	      <url>http://3.215.142.99:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
